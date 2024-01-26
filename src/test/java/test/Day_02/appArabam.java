@@ -1,4 +1,4 @@
-package Day_02;
+package test.Day_02;
 
 import io.appium.java_client.TouchAction;
 import io.appium.java_client.android.AndroidDriver;
